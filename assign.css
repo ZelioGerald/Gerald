@@ -1,0 +1,189 @@
+body{
+    background-color: white;
+}
+
+.Heading{
+    background-color: rgb(242, 196, 182);
+    height: 180px;
+}
+
+.img1{
+    border-radius: 150px;
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.Name{
+    float: right;
+    margin-right: 250px;
+    margin-top: 30px;
+}
+
+.title{
+    margin-left: 90px;
+    margin-top: -150px;
+    color: white;
+    background-color: rgb(72, 69, 69);
+    padding-top: -5px;
+    padding-bottom: -5px;
+}
+
+h2{
+    padding-left: 350px;
+    padding-right: 200px;
+}
+
+.profile{
+    background-color: whitesmoke;
+    margin-top: -32px;
+    margin-right: 600px;
+}
+
+.sub{
+    margin-left: 175px;
+    padding-top: 40px;
+    font-weight: 700;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+.text{
+    padding: 15px;
+    padding-top: 0px;
+}
+
+.Contact{
+    margin-left: 160px;
+    font-weight: 700;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+.img2{
+    font-size: small;
+    margin-left: 50px;
+}
+
+.number{
+    float: right;
+    margin-right: 200px;
+}
+
+.img3{
+    font-size: small;
+    margin-left: 50px; 
+}
+
+.email{
+    float: right;
+    margin-right: 100px; 
+}
+
+.img4{
+    font-size: small;
+    margin-left: 50px; 
+}
+
+.location{
+    float: right;
+    margin-right: 163px;
+}
+
+.competence{
+    margin-left: 110px;
+    font-weight: 700;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+.chart1{
+    background-color: red;
+    margin-right: 245px;
+    margin-left: 15px;
+}
+
+.mails{
+    padding-left: 250px;
+}
+
+.chart2{
+    background-color: rgb(242, 196, 182);
+    margin-right: 379px;
+    margin-left: 15px;
+}
+
+.photoshop{
+    padding-left: 250px;
+}
+
+.chart3{
+    background-color: red;
+    margin-right: 280px;
+    margin-left: 15px;
+}
+
+.photo{
+    padding-left: 250px;
+}
+
+.chart4{
+    background-color: red;
+    margin-right: 180px;
+    margin-left: 15px;
+}
+
+.maths{
+    padding-left: 250px;
+}
+
+.chart5{
+    background-color: rgb(242, 196, 182);
+    margin-right: 220px;
+    margin-left: 15px;
+}
+
+.html{
+    padding-left: 250px;
+}
+
+.chart6{
+    background-color: rgb(242, 196, 182);
+    margin-right: 220px;
+    margin-left: 15px;
+}
+
+.css{
+    padding-left: 250px;
+}
+
+.chart7{
+    background-color: red;
+    margin-right: 350px;
+    margin-left: 15px;
+}
+
+.java{
+    padding-left: 250px;
+}
+
+.chart8{
+    background-color: red;
+    margin-right: 379px;
+    margin-left: 15px;
+}
+
+.php{
+    padding-left: 250px;
+}
+
+.chart9{
+    background-color: red;
+    margin-right: 220px;
+    margin-left: 15px;
+}
+
+.office{
+    padding-left: 250px;
+}
