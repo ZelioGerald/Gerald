@@ -3,7 +3,7 @@ body{
 }
 
 .Heading{
-    background-color: rgb(242, 196, 182);
+    background-color: rgb(251, 179, 158);
     height: 180px;
 }
 
@@ -46,7 +46,6 @@ h2{
     padding-top: 40px;
     font-weight: 700;
     font-size: xx-large;
-    font-style: italic;
 }
 
 .text{
@@ -58,7 +57,6 @@ h2{
     margin-left: 160px;
     font-weight: 700;
     font-size: xx-large;
-    font-style: italic;
 }
 
 .img2{
@@ -68,122 +66,234 @@ h2{
 
 .number{
     float: right;
-    margin-right: 200px;
+    margin-right: 150px;
+    margin-bottom: 2px;
+    margin-top: 10px;
 }
 
 .img3{
     font-size: small;
     margin-left: 50px; 
+    margin-top: 15px;
 }
 
 .email{
     float: right;
-    margin-right: 100px; 
+    margin-right: 140px;
+    margin-top: 30px; 
 }
 
 .img4{
     font-size: small;
     margin-left: 50px; 
+    margin-top: 12px;
 }
 
 .location{
     float: right;
-    margin-right: 163px;
+    margin-right: 110px;
 }
 
 .competence{
     margin-left: 110px;
     font-weight: 700;
     font-size: xx-large;
-    font-style: italic;
 }
 
 .chart1{
-    background-color: red;
+    background-color:rgb(251, 179, 158);
     margin-right: 245px;
     margin-left: 15px;
 }
 
 .mails{
-    padding-left: 250px;
+    padding-left: 155px;
 }
 
 .chart2{
-    background-color: rgb(242, 196, 182);
-    margin-right: 379px;
-    margin-left: 15px;
-}
-
-.photoshop{
-    padding-left: 250px;
-}
-
-.chart3{
-    background-color: red;
+    background-color: rgb(248, 216, 206);
     margin-right: 280px;
     margin-left: 15px;
 }
 
+.photoshop{
+    padding-left: 120px;
+}
+
+.chart3{
+    background-color: rgb(251, 179, 158);
+    margin-right: 330px;
+    margin-left: 15px;
+}
+
 .photo{
-    padding-left: 250px;
+    padding-left: 70px;
 }
 
 .chart4{
-    background-color: red;
-    margin-right: 180px;
+    background-color: rgb(248, 216, 206);
+    margin-right: 280px;
     margin-left: 15px;
 }
 
 .maths{
-    padding-left: 250px;
+    padding-left: 120px;
 }
 
 .chart5{
-    background-color: rgb(242, 196, 182);
-    margin-right: 220px;
+    background-color: rgb(251, 179, 158);
+    margin-right: 260px;
     margin-left: 15px;
 }
 
 .html{
-    padding-left: 250px;
+    padding-left: 140px;
 }
 
 .chart6{
-    background-color: rgb(242, 196, 182);
-    margin-right: 220px;
+    background-color: rgb(248, 216, 206);
+    margin-right: 330px;
     margin-left: 15px;
 }
 
 .css{
-    padding-left: 250px;
+    padding-left: 70px;
 }
 
-.chart7{
-    background-color: red;
-    margin-right: 350px;
-    margin-left: 15px;
+.social{
+    margin-left: 150px;
+    font-weight: 700;
+    font-size: xx-large;
 }
 
-.java{
-    padding-left: 250px;
+.Instagram{
+    float: right;
+    margin-right: 140px;
+    margin-top: -40px; 
 }
 
-.chart8{
-    background-color: red;
-    margin-right: 379px;
-    margin-left: 15px;
+.link{
+    float: right;
+    margin-right: 140px;
+    margin-top: 20px; 
 }
 
-.php{
-    padding-left: 250px;
+.profile2{
+    float: right;
+    margin-top: -1110px;
+    margin-right: 100px;
 }
 
-.chart9{
-    background-color: red;
-    margin-right: 220px;
-    margin-left: 15px;
+.prof{
+    font-weight: 700;
+    font-size: x-large;
+    background-color: rgb(72, 69, 69);
+    color: white;
+    margin-left: 403px;
+    margin-right: -100px;
+    padding-left: 180px;
 }
 
-.office{
-    padding-left: 250px;
+.soc{
+    float: right;
+    margin-right: 380px;
+    margin-top: 0px;
+}
+
+.tit{
+    float: right;
+    margin-left: 400px;
+    margin-right: 185px;
+    margin-top: -57px;
+}
+
+.desc{
+    float: right;
+    margin-left: 585px;
+    margin-right: -80px;
+    margin-top: -40px;
+    margin-bottom: -15px;
+}
+
+.img4{
+    margin-left: 405px;
+    margin-top: -5px;
+}
+
+.soc2{
+    float: right;
+    margin-right: 380px;
+    margin-top: 55px;
+}
+
+.tit2{
+    float: right;
+    margin-left: 400px;
+    margin-right: 185px;
+    margin-top: -56px;
+}
+
+.desc2{
+    float: right;
+    margin-left: 585px;
+    margin-right: -80px;
+    margin-top: -38px;
+    margin-bottom: 15px;
+}
+
+.img5{
+    margin-left: 405px;
+    margin-top: 55px;
+}
+
+.soc3{
+    float: right;
+    margin-right: 380px;
+    margin-top: 15px;
+}
+
+.tit3{
+    float: right;
+    margin-left: 400px;
+    margin-right: 185px;
+    margin-top: -58px;
+}
+
+.desc3{
+    float: right;
+    margin-left: 585px;
+    margin-right: -80px;
+    margin-top: -40px;
+    margin-bottom: -15px;
+}
+
+.img6{
+    margin-left: 405px;
+    margin-top: 15px;
+}
+
+.soc4{
+    float: right;
+    margin-right: 380px;
+    margin-top: 155px;
+}
+
+.tit4{
+    float: right;
+    margin-left: 400px;
+    margin-right: 185px;
+    margin-top: -146px;
+}
+
+.desc4{
+    float: right;
+    margin-left: 585px;
+    margin-right: -80px;
+    margin-top: -138px;
+    margin-bottom: -15px;
+}
+
+.img7{
+    margin-left: 405px;
+    margin-top: 155px;
 }
